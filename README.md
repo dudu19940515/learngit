@@ -1,2 +1,2 @@
-git learn::
+dagit learn::
 new change
